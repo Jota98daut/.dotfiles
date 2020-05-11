@@ -1,0 +1,5 @@
+{
+    "window.menuBarVisibility": "toggle",
+    "editor.fontFamily": "Hack, 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+    "workbench.colorTheme": "Nord"
+}

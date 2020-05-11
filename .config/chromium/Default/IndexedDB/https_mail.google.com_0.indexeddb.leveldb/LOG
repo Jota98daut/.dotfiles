@@ -1,0 +1,15 @@
+2020/05/09-11:05:48.309 51c Reusing MANIFEST /home/joel/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/05/09-11:05:48.309 51c Recovering log #4
+2020/05/09-11:05:48.309 51c Reusing old log /home/joel/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000004.log 
+2020/05/09-11:08:45.173 416 Level-0 table #8: started
+2020/05/09-11:08:45.245 416 Level-0 table #8: 65708 bytes OK
+2020/05/09-11:08:45.274 416 Delete type=0 #4
+2020/05/09-11:08:45.275 416 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/05/09-11:08:45.276 416 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x08\x01\x02\x01\x1c\x00S\x00t\x00o\x00r\x00e\x00d\x00C\x00a\x00c\x00h\x00e\x00S\x00t\x00a\x00t\x00e\x00:\x00:\x00/\x00m\x00a\x00i\x00l\x00/\x00u\x00/\x000\x00/' @ 113 : 1
+2020/05/09-11:08:45.276 416 Compacting 1@1 + 1@2 files
+2020/05/09-11:08:45.312 416 Generated table #9@1: 106 keys, 42193 bytes
+2020/05/09-11:08:45.312 416 Compacted 1@1 + 1@2 files => 42193 bytes
+2020/05/09-11:08:45.340 416 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/05/09-11:08:45.341 416 Delete type=2 #8
+2020/05/09-11:08:45.341 416 Delete type=2 #5
+2020/05/09-11:08:45.341 416 Manual compaction at level-1 from '\x00\x08\x01\x02\x01\x1c\x00S\x00t\x00o\x00r\x00e\x00d\x00C\x00a\x00c\x00h\x00e\x00S\x00t\x00a\x00t\x00e\x00:\x00:\x00/\x00m\x00a\x00i\x00l\x00/\x00u\x00/\x000\x00/' @ 113 : 1 .. (end); will stop at (end)

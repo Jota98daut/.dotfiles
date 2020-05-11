@@ -1,0 +1,27 @@
+[2020-05-06 19:31:23.533] [sharedprocess] [info] main {"machineId":"7ffe7a97bb5901558bbafc2fdec3a82fa3f3ccab51d115415b850cc089f3b6ca","windowId":2}
+[2020-05-06 19:31:23.587] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/joel/.config/Code - OSS/User/snippets'
+[2020-05-06 19:32:03.573] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-05-06 19:33:33.244] [sharedprocess] [info] Installing extension: ms-vscode.cpptools
+[2020-05-06 19:33:35.578] [sharedprocess] [info] Downloaded extension: ms-vscode.cpptools /tmp/4f935f06-3e14-42f5-925a-bdda43fa25ab
+[2020-05-06 19:33:36.533] [sharedprocess] [info] Extracted extension to /home/joel/.vscode-oss/extensions/.ms-vscode.cpptools-0.27.1: ms-vscode.cpptools
+[2020-05-06 19:33:36.534] [sharedprocess] [info] Renamed to /home/joel/.vscode-oss/extensions/ms-vscode.cpptools-0.27.1
+[2020-05-06 19:33:36.544] [sharedprocess] [info] Installation completed. ms-vscode.cpptools
+[2020-05-06 19:33:36.613] [sharedprocess] [info] Extensions installed successfully: ms-vscode.cpptools
+[2020-05-06 19:34:25.072] [sharedprocess] [info] Installing extension: arcticicestudio.nord-visual-studio-code
+[2020-05-06 19:34:26.239] [sharedprocess] [info] Downloaded extension: arcticicestudio.nord-visual-studio-code /tmp/81d0a9a7-88f2-4c6f-93dd-e66617d67f47
+[2020-05-06 19:34:26.281] [sharedprocess] [info] Extracted extension to /home/joel/.vscode-oss/extensions/.arcticicestudio.nord-visual-studio-code-0.13.0: arcticicestudio.nord-visual-studio-code
+[2020-05-06 19:34:26.282] [sharedprocess] [info] Renamed to /home/joel/.vscode-oss/extensions/arcticicestudio.nord-visual-studio-code-0.13.0
+[2020-05-06 19:34:26.284] [sharedprocess] [info] Installation completed. arcticicestudio.nord-visual-studio-code
+[2020-05-06 19:34:26.334] [sharedprocess] [info] Extensions installed successfully: arcticicestudio.nord-visual-studio-code
+[2020-05-06 19:35:30.353] [sharedprocess] [info] Uninstalling extension: ms-vscode.cpptools
+[2020-05-06 19:35:30.427] [sharedprocess] [info] Successfully uninstalled extension: ms-vscode.cpptools
+[2020-05-06 19:35:54.501] [sharedprocess] [info] Installing extension: ms-vscode.cpptools
+[2020-05-06 19:35:55.152] [sharedprocess] [info] Downloaded extension: ms-vscode.cpptools /tmp/409afed1-36c9-4de6-a905-5fb7d034e155
+[2020-05-06 19:35:55.249] [sharedprocess] [info] Removed the extension from uninstalled list: ms-vscode.cpptools
+[2020-05-06 19:35:55.254] [sharedprocess] [info] Extensions installed successfully: ms-vscode.cpptools
+[2020-05-06 19:36:22.408] [sharedprocess] [info] Installing extension: dnlytras.nord-wave
+[2020-05-06 19:36:25.558] [sharedprocess] [info] Downloaded extension: dnlytras.nord-wave /tmp/bbef6063-0cf7-4902-a7d4-1e2c1782ad31
+[2020-05-06 19:36:25.639] [sharedprocess] [info] Extracted extension to /home/joel/.vscode-oss/extensions/.dnlytras.nord-wave-0.3.4: dnlytras.nord-wave
+[2020-05-06 19:36:25.640] [sharedprocess] [info] Renamed to /home/joel/.vscode-oss/extensions/dnlytras.nord-wave-0.3.4
+[2020-05-06 19:36:25.641] [sharedprocess] [info] Installation completed. dnlytras.nord-wave
+[2020-05-06 19:36:25.700] [sharedprocess] [info] Extensions installed successfully: dnlytras.nord-wave

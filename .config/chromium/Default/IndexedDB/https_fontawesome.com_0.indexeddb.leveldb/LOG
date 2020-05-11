@@ -1,0 +1,15 @@
+2020/05/07-17:55:46.102 a15 Reusing MANIFEST /home/joel/.config/chromium/Default/IndexedDB/https_fontawesome.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/05/07-17:55:46.103 a15 Recovering log #11
+2020/05/07-17:55:46.104 a15 Reusing old log /home/joel/.config/chromium/Default/IndexedDB/https_fontawesome.com_0.indexeddb.leveldb/000011.log 
+2020/05/07-19:58:51.151 b50 Level-0 table #16: started
+2020/05/07-19:58:51.185 b50 Level-0 table #16: 15578 bytes OK
+2020/05/07-19:58:51.224 b50 Delete type=0 #11
+2020/05/07-19:58:51.224 b50 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/05/07-19:58:51.224 b50 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x05\x00s\x00t\x00a\x00t\x00e' @ 1664 : 1
+2020/05/07-19:58:51.224 b50 Compacting 1@1 + 1@2 files
+2020/05/07-19:58:51.253 b50 Generated table #17@1: 53 keys, 1110 bytes
+2020/05/07-19:58:51.253 b50 Compacted 1@1 + 1@2 files => 1110 bytes
+2020/05/07-19:58:51.290 b50 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/05/07-19:58:51.290 b50 Delete type=2 #13
+2020/05/07-19:58:51.290 b50 Delete type=2 #16
+2020/05/07-19:58:51.291 b50 Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x05\x00s\x00t\x00a\x00t\x00e' @ 1664 : 1 .. (end); will stop at (end)

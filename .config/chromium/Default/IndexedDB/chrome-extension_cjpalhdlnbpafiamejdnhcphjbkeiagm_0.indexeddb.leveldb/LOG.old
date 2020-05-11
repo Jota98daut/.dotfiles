@@ -1,0 +1,8 @@
+2020/05/09-17:41:56.844 1939 Reusing MANIFEST /home/joel/.config/chromium/Default/IndexedDB/chrome-extension_cjpalhdlnbpafiamejdnhcphjbkeiagm_0.indexeddb.leveldb/MANIFEST-000001
+2020/05/09-17:41:56.844 1939 Recovering log #73
+2020/05/09-17:41:56.844 1939 Reusing old log /home/joel/.config/chromium/Default/IndexedDB/chrome-extension_cjpalhdlnbpafiamejdnhcphjbkeiagm_0.indexeddb.leveldb/000073.log 
+2020/05/09-17:41:58.906 1a4d Level-0 table #77: started
+2020/05/09-17:41:58.906 1a4d Level-0 table #77: 0 bytes OK
+2020/05/09-17:41:58.964 1a4d Delete type=0 #73
+2020/05/09-17:41:58.964 1a4d Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/05/09-17:41:58.964 1a4d Manual compaction at level-1 from (begin) .. (end); will stop at (end)

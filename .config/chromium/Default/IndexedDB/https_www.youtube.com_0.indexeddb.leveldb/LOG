@@ -1,0 +1,15 @@
+2020/05/10-10:57:19.319 1bf7 Reusing MANIFEST /home/joel/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/05/10-10:57:19.320 1bf7 Recovering log #4
+2020/05/10-10:57:19.320 1bf7 Reusing old log /home/joel/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000004.log 
+2020/05/10-11:00:14.029 1a4d Level-0 table #8: started
+2020/05/10-11:00:14.062 1a4d Level-0 table #8: 190 bytes OK
+2020/05/10-11:00:14.093 1a4d Delete type=0 #4
+2020/05/10-11:00:14.094 1a4d Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/05/10-11:00:14.094 1a4d Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x05' @ 368 : 1
+2020/05/10-11:00:14.094 1a4d Compacting 1@1 + 1@2 files
+2020/05/10-11:00:14.130 1a4d Generated table #9@1: 46 keys, 1830 bytes
+2020/05/10-11:00:14.130 1a4d Compacted 1@1 + 1@2 files => 1830 bytes
+2020/05/10-11:00:14.159 1a4d compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/05/10-11:00:14.160 1a4d Delete type=2 #8
+2020/05/10-11:00:14.160 1a4d Delete type=2 #5
+2020/05/10-11:00:14.160 1a4d Manual compaction at level-1 from '\x00\x00\x00\x00\x05' @ 368 : 1 .. (end); will stop at (end)

@@ -1,0 +1,15 @@
+2020/05/09-17:41:56.104 1937 Reusing MANIFEST /home/joel/.config/chromium/Default/Session Storage/MANIFEST-000001
+2020/05/09-17:41:56.104 1937 Recovering log #67
+2020/05/09-17:41:56.105 1937 Reusing old log /home/joel/.config/chromium/Default/Session Storage/000067.log 
+2020/05/09-17:42:20.560 1b37 Level-0 table #71: started
+2020/05/09-17:42:20.616 1b37 Level-0 table #71: 24049 bytes OK
+2020/05/09-17:42:20.657 1b37 Delete type=0 #67
+2020/05/09-17:42:20.657 1b37 Compacting 4@0 + 1@1 files
+2020/05/09-17:42:20.750 1b37 Generated table #72@0: 1248 keys, 31038 bytes
+2020/05/09-17:42:20.750 1b37 Compacted 4@0 + 1@1 files => 31038 bytes
+2020/05/09-17:42:20.789 1b37 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/05/09-17:42:20.790 1b37 Delete type=2 #65
+2020/05/09-17:42:20.790 1b37 Delete type=2 #71
+2020/05/09-17:42:20.790 1b37 Delete type=2 #61
+2020/05/09-17:42:20.790 1b37 Delete type=2 #68
+2020/05/09-17:42:20.790 1b37 Delete type=2 #63

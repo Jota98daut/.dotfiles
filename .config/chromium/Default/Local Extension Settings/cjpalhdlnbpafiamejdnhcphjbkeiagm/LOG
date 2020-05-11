@@ -1,0 +1,31 @@
+2020/05/10-16:30:31.829 323 Reusing MANIFEST /home/joel/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2020/05/10-16:30:31.829 323 Recovering log #28
+2020/05/10-16:30:32.466 323 Reusing old log /home/joel/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000028.log 
+2020/05/10-16:33:39.834 544 Level-0 table #32: started
+2020/05/10-16:33:39.982 544 Level-0 table #32: 2842423 bytes OK
+2020/05/10-16:33:40.019 544 Delete type=0 #28
+2020/05/10-16:33:40.021 544 Compacting 4@0 + 4@1 files
+2020/05/10-16:33:40.204 544 Generated table #33@0: 14 keys, 2099177 bytes
+2020/05/10-16:33:40.317 544 Generated table #34@0: 8 keys, 2117432 bytes
+2020/05/10-16:33:40.461 544 Generated table #35@0: 5 keys, 2613937 bytes
+2020/05/10-16:33:40.583 544 Generated table #36@0: 8 keys, 2326899 bytes
+2020/05/10-16:33:40.617 544 Generated table #37@0: 4 keys, 82746 bytes
+2020/05/10-16:33:40.617 544 Compacted 4@0 + 4@1 files => 9240191 bytes
+2020/05/10-16:33:40.649 544 compacted to: files[ 0 5 1 0 0 0 0 ]
+2020/05/10-16:33:40.649 544 Delete type=2 #24
+2020/05/10-16:33:40.649 544 Delete type=2 #29
+2020/05/10-16:33:40.649 544 Delete type=2 #26
+2020/05/10-16:33:40.649 544 Delete type=2 #19
+2020/05/10-16:33:40.649 544 Delete type=2 #32
+2020/05/10-16:33:40.649 544 Delete type=2 #20
+2020/05/10-16:33:40.649 544 Delete type=2 #21
+2020/05/10-16:33:40.649 544 Delete type=2 #18
+2020/05/10-16:35:41.725 544 Level-0 table #39: started
+2020/05/10-16:35:41.825 544 Level-0 table #39: 1694339 bytes OK
+2020/05/10-16:35:41.854 544 Delete type=0 #31
+2020/05/10-16:54:50.425 544 Level-0 table #41: started
+2020/05/10-16:54:50.548 544 Level-0 table #41: 2072022 bytes OK
+2020/05/10-16:54:50.585 544 Delete type=0 #38
+2020/05/10-16:58:32.585 544 Level-0 table #43: started
+2020/05/10-16:58:32.784 544 Level-0 table #43: 3419504 bytes OK
+2020/05/10-16:58:32.814 544 Delete type=0 #40

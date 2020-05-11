@@ -1,0 +1,14 @@
+"*":
+  core:
+    autoHideMenuBar: true
+    telemetryConsent: "limited"
+    themes: [
+      "one-dark-ui"
+      "nord-atom-syntax"
+    ]
+  editor:
+    fontFamily: "Hack, Menlo, Consolas, DejaVu Sans Mono, monospace"
+  "exception-reporting":
+    userId: "2b6b9b4d-8545-4585-a240-89b05696f142"
+  welcome:
+    showOnStartup: false

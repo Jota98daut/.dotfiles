@@ -1,0 +1,6 @@
+2020/05/09-17:41:55.812 1920 Reusing MANIFEST /home/joel/.config/chromium/Default/Sync Data/LevelDB/MANIFEST-000001
+2020/05/09-17:41:55.812 1920 Recovering log #74
+2020/05/09-17:41:55.816 1920 Reusing old log /home/joel/.config/chromium/Default/Sync Data/LevelDB/000074.log 
+2020/05/10-10:48:54.320 1c81 Level-0 table #78: started
+2020/05/10-10:48:55.711 1c81 Level-0 table #78: 103818 bytes OK
+2020/05/10-10:48:56.684 1c81 Delete type=0 #74

@@ -1,0 +1,9 @@
+Cannot read property 'map' of undefined
+TypeError: Cannot read property 'map' of undefined
+    at promptForPath (/usr/lib/atom/src/main-process/atom-application.js:1974:25)
+    at Function.wrappedCallback (/usr/lib/electron4/resources/electron.asar/browser/api/dialog.js:130:57)
+
+ALSA lib pcm_dmix.c:1089:(snd_pcm_dmix_open) unable to open slave
+Attempting to call a function in a renderer window that has been closed or released.
+Function provided here: worker.js:79:22
+Remote event names: destroyed, crashed

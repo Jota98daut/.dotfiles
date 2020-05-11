@@ -1,0 +1,27 @@
+2020/05/09-17:41:55.817 1926 Reusing MANIFEST /home/joel/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2020/05/09-17:41:55.817 1926 Recovering log #498
+2020/05/09-17:41:55.818 1926 Reusing old log /home/joel/.config/chromium/Default/Local Storage/leveldb/000498.log 
+2020/05/10-10:50:17.099 1b37 Level-0 table #501: started
+2020/05/10-10:50:17.142 1b37 Level-0 table #501: 64001 bytes OK
+2020/05/10-10:50:17.183 1b37 Delete type=0 #498
+2020/05/10-10:51:00.065 1b37 Level-0 table #503: started
+2020/05/10-10:51:00.231 1b37 Level-0 table #503: 53251 bytes OK
+2020/05/10-10:51:00.278 1b37 Delete type=0 #500
+2020/05/10-10:52:37.837 1b37 Level-0 table #505: started
+2020/05/10-10:52:37.976 1b37 Level-0 table #505: 104276 bytes OK
+2020/05/10-10:52:38.026 1b37 Delete type=0 #502
+2020/05/10-10:52:38.026 1b37 Compacting 4@0 + 1@1 files
+2020/05/10-10:52:38.143 1b37 Generated table #506@0: 476 keys, 1328086 bytes
+2020/05/10-10:52:38.143 1b37 Compacted 4@0 + 1@1 files => 1328086 bytes
+2020/05/10-10:52:38.181 1b37 compacted to: files[ 0 1 0 0 0 0 0 ]
+2020/05/10-10:52:38.181 1b37 Delete type=2 #501
+2020/05/10-10:52:38.181 1b37 Delete type=2 #503
+2020/05/10-10:52:38.181 1b37 Delete type=2 #495
+2020/05/10-10:52:38.181 1b37 Delete type=2 #505
+2020/05/10-10:52:38.181 1b37 Delete type=2 #497
+2020/05/10-10:54:38.308 1b37 Level-0 table #508: started
+2020/05/10-10:54:38.362 1b37 Level-0 table #508: 205155 bytes OK
+2020/05/10-10:54:38.400 1b37 Delete type=0 #504
+2020/05/10-10:58:38.818 1b37 Level-0 table #510: started
+2020/05/10-10:58:39.093 1b37 Level-0 table #510: 101802 bytes OK
+2020/05/10-10:58:39.162 1b37 Delete type=0 #507

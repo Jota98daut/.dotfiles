@@ -1,0 +1,108 @@
+; Joel's polybar config
+
+[colors]
+background = #2E3440
+foreground = #dfdfdf
+primary = #ffb52a
+secondary = #e60053
+alert = #bd2c40
+black = #3b4252
+red = #bf616a
+green = #a3be8c
+yellow = #ebcb8b
+blue = #81a1c1
+magenta = #b48ead
+cyan = #88c0d0
+white = #e5e9f0
+orange = #D08770
+
+[bar/mybar]
+
+fixed-center = true
+
+width = 100%
+height = 35
+
+background = ${colors.background}
+foreground = ${colors.foreground}
+
+padding = 4
+module-margin = 0
+
+font-0 = Fira Code:size=10;3
+font-1 = Material Icons:size=11;4
+font-2 = Font Awesome 5 Brands:size=11;2
+font-3 = Font Awesome 5 Free:size=11;2
+
+modules-left = i3 xwindow
+modules-center = date
+modules-right = pulseaudio xkeyboard wlan eth battery powermenu
+separator = |
+
+tray-position = right
+tray-padding = 1
+;tray-background = 
+
+dpi = 120
+
+[module/i3]
+type = internal/i3
+
+format = <label-state> <label-mode>
+index-sort = true
+wrapping-scroll = false
+
+label-mode-padding = 1
+label-mode-foreground = ${colors.foreground}
+label-mode-background = ${colors.primary}
+
+label-focused = 
+label-unfocused = 
+label-visible = 
+label-urgent = 
+label-urgent-foreground = ${colors.red}
+
+
+[module/xwindow]
+type = internal/xwindow
+label = %title:0:30:~%
+
+format-padding = 1
+format-background = ${colors.blue}
+format-foreground = ${colors.black}
+
+
+[module/pulseaudio]
+type = internal/pulseaudio
+
+interval = 5
+
+format-volume = <ramp-volume><label-volume>
+label-volume = %percentage%%
+
+format-padding = 1
+format-background = ${colors.cyan}
+format-foreground = ${colors.black}
+
+ramp-volume-0 = 
+ramp-volume-1 = 
+ramp-volume-2 = 
+
+label-muted = " muted"
+label-muted-background = ${colors.background}
+label-muted-foreground = #666
+
+click-right = pavucontrol &
+
+
+[module/xkeyboard]
+type = internal/xkeyboard
+
+blacklist-0 = num lock
+
+format-background = ${colors.yellow}
+format-foreground = ${colors.black}
+format-padding = 1
+
+label-layout = %name%
+

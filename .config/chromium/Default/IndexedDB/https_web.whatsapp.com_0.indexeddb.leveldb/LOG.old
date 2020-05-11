@@ -1,0 +1,21 @@
+2020/05/08-14:18:55.778 363 Reusing MANIFEST /home/joel/.config/chromium/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/05/08-14:18:55.779 363 Recovering log #15
+2020/05/08-14:18:56.281 363 Reusing old log /home/joel/.config/chromium/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000015.log 
+2020/05/08-15:05:11.267 482 Level-0 table #20: started
+2020/05/08-15:05:11.384 482 Level-0 table #20: 1327156 bytes OK
+2020/05/08-15:05:11.420 482 Delete type=0 #15
+2020/05/08-15:06:08.129 482 Compacting 1@1 + 1@2 files
+2020/05/08-15:06:08.345 482 Generated table #21@1: 33507 keys, 1551836 bytes
+2020/05/08-15:06:08.345 482 Compacted 1@1 + 1@2 files => 1551836 bytes
+2020/05/08-15:06:08.373 482 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/05/08-15:06:08.374 482 Delete type=2 #17
+2020/05/08-15:06:08.374 482 Delete type=2 #20
+2020/05/08-20:48:40.317 482 Level-0 table #23: started
+2020/05/08-20:48:40.444 482 Level-0 table #23: 1311177 bytes OK
+2020/05/08-20:48:40.478 482 Delete type=0 #19
+2020/05/08-20:48:44.444 482 Compacting 1@1 + 1@2 files
+2020/05/08-20:48:44.666 482 Generated table #24@1: 39129 keys, 1856728 bytes
+2020/05/08-20:48:44.666 482 Compacted 1@1 + 1@2 files => 1856728 bytes
+2020/05/08-20:48:44.693 482 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/05/08-20:48:44.693 482 Delete type=2 #23
+2020/05/08-20:48:44.693 482 Delete type=2 #21

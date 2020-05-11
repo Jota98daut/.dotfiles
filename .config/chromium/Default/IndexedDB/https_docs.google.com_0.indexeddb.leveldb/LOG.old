@@ -1,0 +1,8 @@
+2020/05/09-15:51:50.969 a3c Reusing MANIFEST /home/joel/.config/chromium/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/05/09-15:51:50.969 a3c Recovering log #24
+2020/05/09-15:51:50.969 a3c Reusing old log /home/joel/.config/chromium/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/000024.log 
+2020/05/09-16:01:44.193 462 Level-0 table #29: started
+2020/05/09-16:01:44.194 462 Level-0 table #29: 0 bytes OK
+2020/05/09-16:01:44.250 462 Delete type=0 #24
+2020/05/09-16:01:44.250 462 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/05/09-16:01:44.251 462 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

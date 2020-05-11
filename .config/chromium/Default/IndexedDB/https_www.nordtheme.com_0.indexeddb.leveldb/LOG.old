@@ -1,0 +1,15 @@
+2020/05/07-19:30:42.870 2565 Reusing MANIFEST /home/joel/.config/chromium/Default/IndexedDB/https_www.nordtheme.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/05/07-19:30:42.871 2565 Recovering log #31
+2020/05/07-19:30:42.871 2565 Reusing old log /home/joel/.config/chromium/Default/IndexedDB/https_www.nordtheme.com_0.indexeddb.leveldb/000031.log 
+2020/05/07-19:31:17.217 b50 Level-0 table #36: started
+2020/05/07-19:31:17.250 b50 Level-0 table #36: 1753 bytes OK
+2020/05/07-19:31:17.291 b50 Delete type=0 #31
+2020/05/07-19:31:17.291 b50 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/05/07-19:31:17.291 b50 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x10\x00r\x00e\x00s\x00o\x00u\x00r\x00c\x00e\x00s\x00:\x00/\x00p\x00o\x00r\x00t\x00s' @ 1117 : 1
+2020/05/07-19:31:17.291 b50 Compacting 1@1 + 1@2 files
+2020/05/07-19:31:17.328 b50 Generated table #37@1: 102 keys, 5019 bytes
+2020/05/07-19:31:17.329 b50 Compacted 1@1 + 1@2 files => 5019 bytes
+2020/05/07-19:31:17.368 b50 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/05/07-19:31:17.368 b50 Delete type=2 #33
+2020/05/07-19:31:17.368 b50 Delete type=2 #36
+2020/05/07-19:31:17.368 b50 Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x10\x00r\x00e\x00s\x00o\x00u\x00r\x00c\x00e\x00s\x00:\x00/\x00p\x00o\x00r\x00t\x00s' @ 1117 : 1 .. (end); will stop at (end)
