@@ -18,7 +18,7 @@
 
 [colors]
 ;background = ${xrdb:color0:#222}
-background = #2E3440
+background = #f22E3440
 background-alt = #444
 ;foreground = ${xrdb:color7:#222}
 foreground = #dfdfdf
@@ -52,8 +52,8 @@ line-size = 2
 
 ;border-size = 4
 ;border-color = #00000000
-border-bottom-size = 3
-border-bottom-color = ${colors.dfrost}
+;border-bottom-size = 3
+;border-bottom-color = ${colors.dfrost}
 
 padding-left = 0
 padding-right = 2
